@@ -39,6 +39,9 @@
       "icons/icon.icns",
       "icons/icon.ico"
     ],
+    "macOS": {
+      "signingIdentity": "-"
+    },
     "publisher": "LithoVox",
     "shortDescription": "Trace soil layers on images into soil profiles"
   }
